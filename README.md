@@ -1,0 +1,22 @@
+# Calculator
+
+一个用于 7×6 背包物品整理与最佳摆放搜索的单文件网页工具。
+
+本项目基于 [SilverSnow666/Calculator](https://github.com/SilverSnow666/Calculator) 二次优化，主要增加和改进了：
+
+- 更快的背包排列搜索、快速/深度搜索模式
+- 可选的 Worker 并行搜索
+- 物品库与已有物品清单的响应式布局
+- 手机端适配和紧凑列显示
+- 背包总格数统计与超出提示
+- 截图识别、半自动修正和候选替换流程
+
+## 使用
+
+直接打开 [在线版本](https://elevzent.github.io/Calculator-main/) 即可使用，也可以下载 `index.html` 后在浏览器中打开。
+
+项目不依赖构建工具或后端服务，所有计算在浏览器本地完成。
+
+## 开源协议
+
+本项目采用 [MIT License](./LICENSE)。原项目版权和许可信息请参阅上游仓库。
