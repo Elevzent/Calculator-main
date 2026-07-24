@@ -1,4 +1,14 @@
 # Changelog
+## 2026-07-25
+
+### Added
+
+- Added the default gold 1x3 item named `三个-横条`.
+
+### Changed
+
+- Kept the item-library and inventory table headers visible while their lists scroll.
+- Replaced the fixed four-Worker cap with a device-aware limit, capped at 12 while preserving capacity for page interaction.
 
 ## 2026-07-21
 
